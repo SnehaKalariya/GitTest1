@@ -8,6 +8,7 @@
 
 /* Begin PBXBuildFile section */
 		6202E1A42ABA8BDF0003196B /* BaseSecond.swift in Sources */ = {isa = PBXBuildFile; fileRef = 6202E1A32ABA8BDF0003196B /* BaseSecond.swift */; };
+		6202E1A22ABA89730003196B /* Second.swift in Sources */ = {isa = PBXBuildFile; fileRef = 6202E1A12ABA89730003196B /* Second.swift */; };
 		627188912ABA7FC700AD34C2 /* GitTest1App.swift in Sources */ = {isa = PBXBuildFile; fileRef = 627188902ABA7FC700AD34C2 /* GitTest1App.swift */; };
 		627188932ABA7FC700AD34C2 /* ContentView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 627188922ABA7FC700AD34C2 /* ContentView.swift */; };
 		627188952ABA7FC900AD34C2 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 627188942ABA7FC900AD34C2 /* Assets.xcassets */; };
@@ -37,6 +38,7 @@
 
 /* Begin PBXFileReference section */
 		6202E1A32ABA8BDF0003196B /* BaseSecond.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = BaseSecond.swift; sourceTree = "<group>"; };
+		6202E1A12ABA89730003196B /* Second.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Second.swift; sourceTree = "<group>"; };
 		6271888D2ABA7FC700AD34C2 /* GitTest1.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = GitTest1.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		627188902ABA7FC700AD34C2 /* GitTest1App.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = GitTest1App.swift; sourceTree = "<group>"; };
 		627188922ABA7FC700AD34C2 /* ContentView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ContentView.swift; sourceTree = "<group>"; };
@@ -104,6 +106,7 @@
 				627188962ABA7FC900AD34C2 /* Preview Content */,
 				627188BA2ABA7FDD00AD34C2 /* First.swift */,
 				6202E1A32ABA8BDF0003196B /* BaseSecond.swift */,
+				6202E1A12ABA89730003196B /* Second.swift */,
 			);
 			path = GitTest1;
 			sourceTree = "<group>";
@@ -267,6 +270,7 @@
 				627188912ABA7FC700AD34C2 /* GitTest1App.swift in Sources */,
 				6202E1A42ABA8BDF0003196B /* BaseSecond.swift in Sources */,
 				627188BB2ABA7FDD00AD34C2 /* First.swift in Sources */,
+				6202E1A22ABA89730003196B /* Second.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
