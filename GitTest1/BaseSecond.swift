@@ -8,5 +8,5 @@
 import Foundation
 
 class BaseSecond{
-    
+    var a = "Sneha"
 }
